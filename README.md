@@ -1,4 +1,4 @@
-# 🏗️ Well-Architected Skills & Steering for AI Coding Agents
+# 🏗️ AWS Well-Architected Claude Skills & Steering for AI Coding Agents
 
 Reusable skills and steering that teach AI coding agents how to apply the [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html). One set of playbooks, **15 supported tools**.
 
